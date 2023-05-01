@@ -1,0 +1,22 @@
+{
+    "customers": [
+        {
+            "name": "David Yaya",
+            "email": "Davidyayaochuko@gmail.com",
+            "phone": "23458275242",
+            "address": {
+                "state": "Lagos",
+                "country": "Nigeria"
+            }
+        },
+        {
+            "name": "Micheal",
+            "email": "DummyMichael@gmail.com",
+            "phone": "2345783242",
+            "address": {
+                "state": "Abuja",
+                "country": "Nigeria"
+            }
+        }
+    ]
+}
